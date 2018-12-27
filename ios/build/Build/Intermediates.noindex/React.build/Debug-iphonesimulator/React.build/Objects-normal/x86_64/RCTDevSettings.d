@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTJSEnvironment.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/johnvidmar/Desktop/Code/Work/00-login/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h
