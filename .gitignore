@@ -1,5 +1,7 @@
 app/auth0-credentials.js
 
+
+ios/build/
 build/
 *.pbxuser
 !default.pbxuser
